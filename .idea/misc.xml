@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/drawable/buttonbackground.xml" value="0.1675" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/drawable/createteamprofilebackground.xml" value="0.261" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_choice.xml" value="0.18" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_createteam.xml" value="0.33" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_createteam2.xml" value="0.15" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_join.xml" value="1.1" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_rules.xml" value="0.33" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_suggestion.xml" value="0.5" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/activity_suggestion2.xml" value="0.25" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/create_team.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/createteamprofile.xml" value="0.67" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/createteamprofile_ticket.xml" value="0.4898989898989899" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/join_team.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/login_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/pager_suggestion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/pager_team.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/request_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/suggest_supervisor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Yoga/AndroidStudioProjects/stud_e/app/src/main/res/layout/suggestion_fragment.xml" value="0.4449648711943794" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
