@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">Stud_e</string>
     <string name="suggest_idea">I suggest an idea..</string>
+    <string name="helloAgain">Hello Again!</string>
+    <string name="requestText"><b>Hey,</b> Register Now. Enter your information to receive your password.</string>
     <string name="rulesText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed lacinia velit, sed consectetur dui.</string>
     <string name="createTeam">Create Team Process hna chof  after nkhdmo descriprion Feel free to send us some bright ideas, and take a moment to include anything that will set you apart.</string>
     <string name="provide_us_with_some_bright_ideas">Feel free to send us some bright ideas, and take a moment to include anything that will set you apart. All you have to do is fill in the blanks.</string>
     <string name="skip">If it\'s not important, just press <font color='#4285F4'>Skip</font></string>
+    <string name="welcomeBack">Welcome back you’ve been missed!</string>
+    <string name="obtainPassword">Not yet registered? <font color='#4285F4'>obtain your password</font></string>
 
 </resources>
