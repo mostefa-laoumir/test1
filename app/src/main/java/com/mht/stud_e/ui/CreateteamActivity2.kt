@@ -11,7 +11,7 @@ import com.mht.stud_e.Models.CreateTeamProfile
 import com.mht.stud_e.R
 import kotlinx.android.synthetic.main.activity_createteam2.*
 import kotlinx.android.synthetic.main.createteamprofile_ticket.view.*
-
+//creating team activity
 class CreateteamActivity2 : AppCompatActivity() {
     var listOfTeamMembers =ArrayList<CreateTeamProfile>()
     var adapter: ProfileAdapter?=null
